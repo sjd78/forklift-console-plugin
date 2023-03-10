@@ -3,13 +3,13 @@ entries:
   forklift-console-plugin:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-10T20:35:45.284197673Z"
+    created: "2023-03-10T23:04:32.989903609Z"
     description: Forklift is a suite of migration tools that facilitate the migration
       of VM workloads to Kubevirt.
-    digest: e025a6299f8866388a425aae9e4c766a110fd7efe044c0388922ca813882e27d
+    digest: 5cd22bbb0b865b0d4a7453cfc40d2f3397535f67a780b8eb776a79d23f5d2091
     name: forklift-console-plugin
     type: application
     urls:
     - https://kubev2v.github.io/forklift-console-plugin/forklift-console-plugin-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-10T20:35:45.283781974Z"
+generated: "2023-03-10T23:04:32.988692121Z"
